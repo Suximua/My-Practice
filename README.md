@@ -1,3 +1,3 @@
 # :dizzy:LEETCODE PRATICE
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi👋+I+am+Su+😊+Apache+Contributor+%F0%9F%91%8B;👩🏻‍💻+Major+in+Software+Engineering.+✨%F0%9F%91%8B;Open+Source+Enthusiast✨.)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=520&duration=4000&pause=800&color=F7CCE1&width=435&lines=Welcome+！🎊;Learning+Golang%EF%BD%9E+💻;I+think%2C;Therefore+I+am.)](https://git.io/typing-svg)
