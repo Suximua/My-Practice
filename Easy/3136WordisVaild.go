@@ -78,7 +78,14 @@ func main(){
   ！！！
   • 键的类型必须为可比较类型（如rune、string、int）
   • 默认值：访问不存在的键时返回bool的零值false，可直接用于条件判断：if vowels['x']{...}//自动检查键是否存在，无需显
-2.
+2. for _, c := range word
+   在go语言中，for range必须用:=进行声明迭代变量 => for index, value := range collection { ... }
+   • := 短变量的限制
+     • 仅允许在函数内部使用
+     • 不能重复声明同一作用域里的变量（需使用=赋值已声明的变量）
+   • What is c？
+     • c是当前迭代元素的副本，其类型与word的元素类型一致
+     • 遍历对象word是字符串（string 类型），因此 c 是字符串中每个字符的 ​​Unicode 码点（rune 类型）​​
     
 
     
